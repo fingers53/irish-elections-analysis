@@ -1,0 +1,835 @@
+{
+  "left_vote_pool": [
+    {
+      "year": 1922,
+      "total_votes": 330031,
+      "Labour": 58894,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 58894,
+      "left_pct": 17.8
+    },
+    {
+      "year": 1923,
+      "total_votes": 995138,
+      "Labour": 109477,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 109477,
+      "left_pct": 11.0
+    },
+    {
+      "year": 1927,
+      "total_votes": 2149502,
+      "Labour": 241866,
+      "Sinn Féin": 41403,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 283269,
+      "left_pct": 13.2
+    },
+    {
+      "year": 1932,
+      "total_votes": 1189095,
+      "Labour": 95780,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 95780,
+      "left_pct": 8.1
+    },
+    {
+      "year": 1933,
+      "total_votes": 1288378,
+      "Labour": 79221,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 79221,
+      "left_pct": 6.1
+    },
+    {
+      "year": 1937,
+      "total_votes": 1246057,
+      "Labour": 135758,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 135758,
+      "left_pct": 10.9
+    },
+    {
+      "year": 1938,
+      "total_votes": 1210991,
+      "Labour": 128945,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 128945,
+      "left_pct": 10.6
+    },
+    {
+      "year": 1943,
+      "total_votes": 1251001,
+      "Labour": 205469,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 205469,
+      "left_pct": 16.4
+    },
+    {
+      "year": 1944,
+      "total_votes": 1147642,
+      "Labour": 105433,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 105433,
+      "left_pct": 9.2
+    },
+    {
+      "year": 1948,
+      "total_votes": 1297532,
+      "Labour": 115073,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 115073,
+      "left_pct": 8.9
+    },
+    {
+      "year": 1951,
+      "total_votes": 1276543,
+      "Labour": 151828,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 151828,
+      "left_pct": 11.9
+    },
+    {
+      "year": 1954,
+      "total_votes": 1285824,
+      "Labour": 161034,
+      "Sinn Féin": 1990,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 163024,
+      "left_pct": 12.7
+    },
+    {
+      "year": 1957,
+      "total_votes": 1176990,
+      "Labour": 111747,
+      "Sinn Féin": 65640,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 177387,
+      "left_pct": 15.1
+    },
+    {
+      "year": 1961,
+      "total_votes": 1139182,
+      "Labour": 136111,
+      "Sinn Féin": 36396,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 172507,
+      "left_pct": 15.1
+    },
+    {
+      "year": 1965,
+      "total_votes": 1216985,
+      "Labour": 192740,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 192740,
+      "left_pct": 15.8
+    },
+    {
+      "year": 1969,
+      "total_votes": 1298449,
+      "Labour": 222763,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 222763,
+      "left_pct": 17.2
+    },
+    {
+      "year": 1973,
+      "total_votes": 1329096,
+      "Labour": 181310,
+      "Sinn Féin": 0,
+      "Workers' Party": 0,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 181310,
+      "left_pct": 13.6
+    },
+    {
+      "year": 1977,
+      "total_votes": 1582014,
+      "Labour": 177696,
+      "Sinn Féin": 0,
+      "Workers' Party": 25307,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 2333,
+      "left_total": 205336,
+      "left_pct": 13.0
+    },
+    {
+      "year": 1981,
+      "total_votes": 1691270,
+      "Labour": 161426,
+      "Sinn Féin": 0,
+      "Workers' Party": 29565,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 11297,
+      "left_total": 202288,
+      "left_pct": 12.0
+    },
+    {
+      "year": 1982,
+      "total_votes": 3289097,
+      "Labour": 297951,
+      "Sinn Féin": 13151,
+      "Workers' Party": 92976,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 13514,
+      "left_total": 417592,
+      "left_pct": 12.7
+    },
+    {
+      "year": 1987,
+      "total_votes": 1744241,
+      "Labour": 110675,
+      "Sinn Féin": 32933,
+      "Workers' Party": 67273,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 7424,
+      "left_total": 218305,
+      "left_pct": 12.5
+    },
+    {
+      "year": 1989,
+      "total_votes": 1624701,
+      "Labour": 149263,
+      "Sinn Féin": 20001,
+      "Workers' Party": 82257,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 14783,
+      "left_total": 266304,
+      "left_pct": 16.4
+    },
+    {
+      "year": 1992,
+      "total_votes": 1690638,
+      "Labour": 324153,
+      "Sinn Féin": 27807,
+      "Workers' Party": 11534,
+      "Democratic Left": 47959,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 0,
+      "left_total": 411453,
+      "left_pct": 24.3
+    },
+    {
+      "year": 1997,
+      "total_votes": 1749722,
+      "Labour": 181189,
+      "Sinn Féin": 45614,
+      "Workers' Party": 7808,
+      "Democratic Left": 44901,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 14473,
+      "left_total": 293985,
+      "left_pct": 16.8
+    },
+    {
+      "year": 2002,
+      "total_votes": 1828854,
+      "Labour": 194917,
+      "Sinn Féin": 121020,
+      "Workers' Party": 4012,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 0,
+      "Social Democrats": 0,
+      "Other Socialist": 18229,
+      "left_total": 338178,
+      "left_pct": 18.5
+    },
+    {
+      "year": 2007,
+      "total_votes": 2046545,
+      "Labour": 203089,
+      "Sinn Féin": 143410,
+      "Workers' Party": 3026,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 9333,
+      "Social Democrats": 0,
+      "Other Socialist": 13218,
+      "left_total": 372076,
+      "left_pct": 18.2
+    },
+    {
+      "year": 2011,
+      "total_votes": 2220359,
+      "Labour": 431796,
+      "Sinn Féin": 220686,
+      "Workers' Party": 3056,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 21526,
+      "Social Democrats": 0,
+      "Other Socialist": 26770,
+      "left_total": 703834,
+      "left_pct": 31.7
+    },
+    {
+      "year": 2016,
+      "total_votes": 2129285,
+      "Labour": 140893,
+      "Sinn Féin": 295313,
+      "Workers' Party": 3242,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 84168,
+      "Social Democrats": 64094,
+      "Other Socialist": 0,
+      "left_total": 587710,
+      "left_pct": 27.6
+    },
+    {
+      "year": 2020,
+      "total_votes": 2181851,
+      "Labour": 95582,
+      "Sinn Féin": 535573,
+      "Workers' Party": 1195,
+      "Democratic Left": 0,
+      "PBP/Solidarity": 57420,
+      "Social Democrats": 63397,
+      "Other Socialist": 0,
+      "left_total": 753167,
+      "left_pct": 34.5
+    }
+  ],
+  "election_correlations": [
+    {
+      "predictor": "LOCAL 1991",
+      "general": "GENERAL 1992",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 37.77,
+          "general_share": 39.0,
+          "diff": 1.23
+        },
+        "Fine Gael": {
+          "predictor_share": 26.44,
+          "general_share": 24.38,
+          "diff": -2.06
+        },
+        "Green Party": {
+          "predictor_share": 2.35,
+          "general_share": 1.43,
+          "diff": -0.92
+        },
+        "Independent": {
+          "predictor_share": 10.74,
+          "general_share": 5.63,
+          "diff": -5.11
+        },
+        "Labour": {
+          "predictor_share": 10.58,
+          "general_share": 19.17,
+          "diff": 8.59
+        },
+        "PDs": {
+          "predictor_share": 5.06,
+          "general_share": 4.78,
+          "diff": -0.28
+        },
+        "Sinn Féin": {
+          "predictor_share": 2.13,
+          "general_share": 1.64,
+          "diff": -0.49
+        }
+      }
+    },
+    {
+      "predictor": "LOCAL 1999",
+      "general": "GENERAL 2002",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 38.91,
+          "general_share": 41.72,
+          "diff": 2.81
+        },
+        "Fine Gael": {
+          "predictor_share": 27.81,
+          "general_share": 22.05,
+          "diff": -5.76
+        },
+        "Green Party": {
+          "predictor_share": 2.51,
+          "general_share": 3.91,
+          "diff": 1.4
+        },
+        "Independent": {
+          "predictor_share": 11.45,
+          "general_share": 8.48,
+          "diff": -2.97
+        },
+        "Labour": {
+          "predictor_share": 10.87,
+          "general_share": 10.66,
+          "diff": -0.21
+        },
+        "PDs": {
+          "predictor_share": 2.92,
+          "general_share": 4.03,
+          "diff": 1.11
+        },
+        "Sinn Féin": {
+          "predictor_share": 3.56,
+          "general_share": 6.62,
+          "diff": 3.06
+        }
+      }
+    },
+    {
+      "predictor": "EUROPEAN 2004",
+      "general": "GENERAL 2007",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 32.12,
+          "general_share": 41.58,
+          "diff": 9.46
+        },
+        "Fine Gael": {
+          "predictor_share": 24.72,
+          "general_share": 27.33,
+          "diff": 2.61
+        },
+        "Green Party": {
+          "predictor_share": 4.71,
+          "general_share": 4.74,
+          "diff": 0.03
+        },
+        "Independent": {
+          "predictor_share": 12.87,
+          "general_share": 5.21,
+          "diff": -7.66
+        },
+        "Labour": {
+          "predictor_share": 11.52,
+          "general_share": 9.92,
+          "diff": -1.6
+        },
+        "Sinn Féin": {
+          "predictor_share": 12.11,
+          "general_share": 7.01,
+          "diff": -5.1
+        }
+      }
+    },
+    {
+      "predictor": "LOCAL 2004",
+      "general": "GENERAL 2007",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 31.83,
+          "general_share": 41.58,
+          "diff": 9.75
+        },
+        "Fine Gael": {
+          "predictor_share": 27.55,
+          "general_share": 27.33,
+          "diff": -0.22
+        },
+        "Green Party": {
+          "predictor_share": 3.92,
+          "general_share": 4.74,
+          "diff": 0.82
+        },
+        "Independent": {
+          "predictor_share": 11.17,
+          "general_share": 5.21,
+          "diff": -5.96
+        },
+        "Labour": {
+          "predictor_share": 11.46,
+          "general_share": 9.92,
+          "diff": -1.54
+        },
+        "PDs": {
+          "predictor_share": 3.79,
+          "general_share": 2.76,
+          "diff": -1.03
+        },
+        "Sinn Féin": {
+          "predictor_share": 8.08,
+          "general_share": 7.01,
+          "diff": -1.07
+        }
+      }
+    },
+    {
+      "predictor": "EUROPEAN 2009",
+      "general": "GENERAL 2011",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 25.43,
+          "general_share": 17.45,
+          "diff": -7.98
+        },
+        "Fine Gael": {
+          "predictor_share": 25.18,
+          "general_share": 36.1,
+          "diff": 10.92
+        },
+        "Green Party": {
+          "predictor_share": 2.0,
+          "general_share": 1.85,
+          "diff": -0.15
+        },
+        "Independent": {
+          "predictor_share": 12.17,
+          "general_share": 11.39,
+          "diff": -0.78
+        },
+        "Labour": {
+          "predictor_share": 14.7,
+          "general_share": 19.45,
+          "diff": 4.75
+        },
+        "Sinn Féin": {
+          "predictor_share": 11.87,
+          "general_share": 9.94,
+          "diff": -1.93
+        }
+      }
+    },
+    {
+      "predictor": "LOCAL 2009",
+      "general": "GENERAL 2011",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 25.38,
+          "general_share": 17.45,
+          "diff": -7.93
+        },
+        "Fine Gael": {
+          "predictor_share": 32.17,
+          "general_share": 36.1,
+          "diff": 3.93
+        },
+        "Green Party": {
+          "predictor_share": 2.34,
+          "general_share": 1.85,
+          "diff": -0.49
+        },
+        "Independent": {
+          "predictor_share": 15.56,
+          "general_share": 11.39,
+          "diff": -4.17
+        },
+        "Labour": {
+          "predictor_share": 14.74,
+          "general_share": 19.45,
+          "diff": 4.71
+        },
+        "Sinn Féin": {
+          "predictor_share": 7.41,
+          "general_share": 9.94,
+          "diff": 2.53
+        }
+      }
+    },
+    {
+      "predictor": "EUROPEAN 2014",
+      "general": "GENERAL 2016",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 24.13,
+          "general_share": 24.3,
+          "diff": 0.17
+        },
+        "Fine Gael": {
+          "predictor_share": 24.11,
+          "general_share": 25.55,
+          "diff": 1.44
+        },
+        "Green Party": {
+          "predictor_share": 5.32,
+          "general_share": 2.72,
+          "diff": -2.6
+        },
+        "Independent": {
+          "predictor_share": 21.47,
+          "general_share": 11.04,
+          "diff": -10.43
+        },
+        "Labour": {
+          "predictor_share": 5.76,
+          "general_share": 6.62,
+          "diff": 0.86
+        },
+        "PBP": {
+          "predictor_share": 1.56,
+          "general_share": 3.95,
+          "diff": 2.39
+        },
+        "Sinn Féin": {
+          "predictor_share": 12.93,
+          "general_share": 13.87,
+          "diff": 0.94
+        }
+      }
+    },
+    {
+      "predictor": "LOCAL 2014",
+      "general": "GENERAL 2016",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 25.32,
+          "general_share": 24.3,
+          "diff": -1.02
+        },
+        "Fine Gael": {
+          "predictor_share": 24.04,
+          "general_share": 25.55,
+          "diff": 1.51
+        },
+        "Green Party": {
+          "predictor_share": 1.59,
+          "general_share": 2.72,
+          "diff": 1.13
+        },
+        "Independent": {
+          "predictor_share": 22.54,
+          "general_share": 11.04,
+          "diff": -11.5
+        },
+        "Labour": {
+          "predictor_share": 7.18,
+          "general_share": 6.62,
+          "diff": -0.56
+        },
+        "PBP": {
+          "predictor_share": 1.71,
+          "general_share": 3.95,
+          "diff": 2.24
+        },
+        "Sinn Féin": {
+          "predictor_share": 15.27,
+          "general_share": 13.87,
+          "diff": -1.4
+        }
+      }
+    },
+    {
+      "predictor": "EUROPEAN 2019",
+      "general": "GENERAL 2020",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 18.01,
+          "general_share": 22.2,
+          "diff": 4.19
+        },
+        "Fine Gael": {
+          "predictor_share": 32.19,
+          "general_share": 20.88,
+          "diff": -11.31
+        },
+        "Green Party": {
+          "predictor_share": 12.37,
+          "general_share": 7.14,
+          "diff": -5.23
+        },
+        "Independent": {
+          "predictor_share": 13.45,
+          "general_share": 12.13,
+          "diff": -1.32
+        },
+        "Labour": {
+          "predictor_share": 3.42,
+          "general_share": 4.38,
+          "diff": 0.96
+        },
+        "PBP": {
+          "predictor_share": 2.51,
+          "general_share": 2.63,
+          "diff": 0.12
+        },
+        "Sinn Féin": {
+          "predictor_share": 7.59,
+          "general_share": 24.55,
+          "diff": 16.96
+        },
+        "Social Democrats": {
+          "predictor_share": 1.32,
+          "general_share": 2.91,
+          "diff": 1.59
+        }
+      }
+    },
+    {
+      "predictor": "LOCAL 2019",
+      "general": "GENERAL 2020",
+      "parties": {
+        "Fianna Fáil": {
+          "predictor_share": 26.9,
+          "general_share": 22.2,
+          "diff": -4.7
+        },
+        "Fine Gael": {
+          "predictor_share": 25.25,
+          "general_share": 20.88,
+          "diff": -4.37
+        },
+        "Green Party": {
+          "predictor_share": 5.53,
+          "general_share": 7.14,
+          "diff": 1.61
+        },
+        "Independent": {
+          "predictor_share": 19.64,
+          "general_share": 12.13,
+          "diff": -7.51
+        },
+        "Labour": {
+          "predictor_share": 5.74,
+          "general_share": 4.38,
+          "diff": -1.36
+        },
+        "PBP": {
+          "predictor_share": 1.27,
+          "general_share": 2.63,
+          "diff": 1.36
+        },
+        "Sinn Féin": {
+          "predictor_share": 9.47,
+          "general_share": 24.55,
+          "diff": 15.08
+        },
+        "Social Democrats": {
+          "predictor_share": 2.29,
+          "general_share": 2.91,
+          "diff": 0.62
+        }
+      }
+    }
+  ],
+  "labour_sf_summary": {
+    "1987": {
+      "labour_pct": 6.3,
+      "sf_pct": 1.9,
+      "left_total_pct": 12.5
+    },
+    "1989": {
+      "labour_pct": 9.2,
+      "sf_pct": 1.2,
+      "left_total_pct": 16.4
+    },
+    "1992": {
+      "labour_pct": 19.2,
+      "sf_pct": 1.6,
+      "left_total_pct": 24.3
+    },
+    "1997": {
+      "labour_pct": 10.4,
+      "sf_pct": 2.6,
+      "left_total_pct": 16.8
+    },
+    "2002": {
+      "labour_pct": 10.7,
+      "sf_pct": 6.6,
+      "left_total_pct": 18.5
+    },
+    "2007": {
+      "labour_pct": 9.9,
+      "sf_pct": 7.0,
+      "left_total_pct": 18.2
+    },
+    "2011": {
+      "labour_pct": 19.4,
+      "sf_pct": 9.9,
+      "left_total_pct": 31.7
+    },
+    "2016": {
+      "labour_pct": 6.6,
+      "sf_pct": 13.9,
+      "left_total_pct": 27.6
+    },
+    "2020": {
+      "labour_pct": 4.4,
+      "sf_pct": 24.5,
+      "left_total_pct": 34.5
+    }
+  }
+}

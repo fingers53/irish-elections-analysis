@@ -69,6 +69,50 @@ In 2020, Sinn Féin ran 42 candidates and **37 won** — an efficiency rate of 8
 
 The lesson? Sinn Féin ran exactly as many candidates as they could realistically win. This strategic discipline is rare in Irish politics, where parties often "spread the vote" across multiple candidates.
 
+## Where Did the Left-Wing Vote Go?
+
+![Labour vs Sinn Féin](viz_labour_sf_mirror.png)
+
+Sinn Féin's rise didn't happen in a vacuum. There's a persistent pool of left-wing voters in Ireland, and the data shows it moving between parties like water finding its level.
+
+| Year | Labour | Sinn Féin | Left Total |
+|------|--------|-----------|------------|
+| 2002 | 10.7% | 6.6% | 18.5% |
+| 2007 | 9.9% | 7.0% | 18.2% |
+| 2011 | **19.4%** | 9.9% | 31.7% |
+| 2016 | 6.6% | **13.9%** | 27.6% |
+| 2020 | 4.4% | **24.5%** | 34.5% |
+
+In 2011, Labour ran on a moderately anti-austerity platform and surged to 19.4% — their best ever result. They then entered coalition with Fine Gael and implemented the very austerity programme they'd campaigned against. The punishment was swift: by 2016, Labour collapsed to 6.6%, losing two-thirds of their voters in a single election.
+
+![Left Vote Pool](viz_left_vote_pool.png)
+
+Sinn Féin absorbed much of that vote, but not all of it. The total left-wing pool actually grew from 18% to 35% over this period, suggesting that austerity politics activated voters who hadn't previously supported any left party. People Before Profit and the Social Democrats also emerged as smaller beneficiaries.
+
+The question now is whether Sinn Féin can hold this coalition together. Their base is a mix of left-wing economic voters and republican nationalists — two groups that don't always want the same things. If Sinn Féin enters government and disappoints (as Labour did), will voters fragment across the Social Democrats, PBP, and independents? Or will the cycle repeat with yet another party absorbing the left?
+
+## Do Local Elections Predict the Dáil?
+
+![Election Predictor](viz_election_predictor.png)
+
+Ireland holds local and European elections between general elections. A natural question: do these results predict what happens next at the Dáil level?
+
+I compared party vote shares in every local and European election since 1991 with the subsequent general election. The answer is **yes, mostly** — with one enormous exception.
+
+**Local elections** are a strong predictor of general election performance, with an r² of 0.84. If a party gets 25% in the locals, they'll probably get somewhere near 25% in the next general election. Fine Gael and Fianna Fáil in particular tend to track closely between local and general elections.
+
+**European elections** are weaker predictors (r² = 0.68), partly because turnout is lower and smaller parties can overperform.
+
+But the model completely failed in one case: **Sinn Féin 2020**. In the 2019 local elections, Sinn Féin got 9.5% of the vote. In the 2019 European elections, they got 7.6%. Eight months later, they got **24.5%** in the general election — a 15-point surge that no prior election predicted.
+
+| Election | SF Vote Share |
+|----------|--------------|
+| Local 2019 | 9.5% |
+| European 2019 | 7.6% |
+| **General 2020** | **24.5%** |
+
+What happened? Sinn Féin deliberately ran fewer candidates in local elections (conserving resources) and benefited from a late swing during the general election campaign, driven by housing and health issues that crystallised in the final weeks. It's a reminder that local elections measure the political landscape as it is, not as it's about to become.
+
 ## The Fianna Fáil Century
 
 ![Party Seats Over Time](viz_party_seats_time.png)
