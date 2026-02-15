@@ -146,12 +146,15 @@ In 2012, Ireland legislated **gender quotas** requiring parties to field at leas
 - **Mary Harney** (1981) — Later became first female Tánaiste
 - **Mary Robinson** (1990) — Though for President, not Dáil, her election shifted perceptions
 
-**Most Elected Women:**
-| Name | Times Elected | Years Active |
-|------|--------------|--------------|
-| Róisín Shortall | 6 | 1992-2016 |
-| Liz McManus | 4 | 1992-2007 |
-| Mary Harney | 3 | 1989-1997 |
+**Most Elected Women (Dáil General Elections):**
+| Name | Times Elected | Years Active | Notes |
+|------|--------------|--------------|-------|
+| Mary Harney | 9 | 1981-2007 | FF then PDs; Dublin SW then Dublin MW |
+| Róisín Shortall | 7 | 1992-2020 | Labour then Social Democrats |
+| Eileen Desmond | 5 | 1965-1982 | Labour; Cork Mid then Cork SC |
+| Liz McManus | 4 | 1992-2007 | Workers' Party, Dem Left, then Labour |
+
+*Note: Candidates who changed party or constituency across elections can be undercounted if tracked by name+party alone — a recurring data quality challenge with this dataset.*
 
 ## The Geography of Power
 
