@@ -1,0 +1,1111 @@
+{
+  "delta_analysis": [
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "LOCAL",
+      "pred_year": 1991,
+      "gen_year": 1992,
+      "prev_gen_year": "1989",
+      "pred_delta": -6.32,
+      "gen_delta": -5.09
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "LOCAL",
+      "pred_year": 1991,
+      "gen_year": 1992,
+      "prev_gen_year": "1989",
+      "pred_delta": -2.73,
+      "gen_delta": -4.8
+    },
+    {
+      "party": "Labour",
+      "pred_type": "LOCAL",
+      "pred_year": 1991,
+      "gen_year": 1992,
+      "prev_gen_year": "1989",
+      "pred_delta": 1.39,
+      "gen_delta": 9.99
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "LOCAL",
+      "pred_year": 1991,
+      "gen_year": 1992,
+      "prev_gen_year": "1989",
+      "pred_delta": 0.9,
+      "gen_delta": 0.41
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "LOCAL",
+      "pred_year": 1991,
+      "gen_year": 1992,
+      "prev_gen_year": "1989",
+      "pred_delta": 0.82,
+      "gen_delta": -0.1
+    },
+    {
+      "party": "Independent",
+      "pred_type": "LOCAL",
+      "pred_year": 1991,
+      "gen_year": 1992,
+      "prev_gen_year": "1989",
+      "pred_delta": 7.94,
+      "gen_delta": 2.83
+    },
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "LOCAL",
+      "pred_year": 1999,
+      "gen_year": 2002,
+      "prev_gen_year": "1997",
+      "pred_delta": -0.39,
+      "gen_delta": 2.42
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "LOCAL",
+      "pred_year": 1999,
+      "gen_year": 2002,
+      "prev_gen_year": "1997",
+      "pred_delta": 0.29,
+      "gen_delta": -5.47
+    },
+    {
+      "party": "Labour",
+      "pred_type": "LOCAL",
+      "pred_year": 1999,
+      "gen_year": 2002,
+      "prev_gen_year": "1997",
+      "pred_delta": 0.52,
+      "gen_delta": 0.3
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "LOCAL",
+      "pred_year": 1999,
+      "gen_year": 2002,
+      "prev_gen_year": "1997",
+      "pred_delta": 0.95,
+      "gen_delta": 4.01
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "LOCAL",
+      "pred_year": 1999,
+      "gen_year": 2002,
+      "prev_gen_year": "1997",
+      "pred_delta": -0.31,
+      "gen_delta": 1.09
+    },
+    {
+      "party": "Independent",
+      "pred_type": "LOCAL",
+      "pred_year": 1999,
+      "gen_year": 2002,
+      "prev_gen_year": "1997",
+      "pred_delta": 5.0,
+      "gen_delta": 2.02
+    },
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "LOCAL",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": -9.89,
+      "gen_delta": -0.13
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "LOCAL",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 5.5,
+      "gen_delta": 5.28
+    },
+    {
+      "party": "Labour",
+      "pred_type": "LOCAL",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 0.8,
+      "gen_delta": -0.73
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "LOCAL",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 1.46,
+      "gen_delta": 0.39
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "LOCAL",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 0.02,
+      "gen_delta": 0.83
+    },
+    {
+      "party": "Independent",
+      "pred_type": "LOCAL",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 2.7,
+      "gen_delta": -3.26
+    },
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": -9.6,
+      "gen_delta": -0.13
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 2.67,
+      "gen_delta": 5.28
+    },
+    {
+      "party": "Labour",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 0.86,
+      "gen_delta": -0.73
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 5.49,
+      "gen_delta": 0.39
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 0.8,
+      "gen_delta": 0.83
+    },
+    {
+      "party": "Independent",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2004,
+      "gen_year": 2007,
+      "prev_gen_year": "2002",
+      "pred_delta": 4.39,
+      "gen_delta": -3.26
+    },
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "LOCAL",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": -16.21,
+      "gen_delta": -24.14
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "LOCAL",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": 4.84,
+      "gen_delta": 8.78
+    },
+    {
+      "party": "Labour",
+      "pred_type": "LOCAL",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": 4.81,
+      "gen_delta": 9.52
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "LOCAL",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": 0.4,
+      "gen_delta": 2.93
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "LOCAL",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": -2.4,
+      "gen_delta": -2.89
+    },
+    {
+      "party": "Independent",
+      "pred_type": "LOCAL",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": 10.34,
+      "gen_delta": 6.18
+    },
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": -16.16,
+      "gen_delta": -24.14
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": -2.15,
+      "gen_delta": 8.78
+    },
+    {
+      "party": "Labour",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": 4.77,
+      "gen_delta": 9.52
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": 4.86,
+      "gen_delta": 2.93
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": -2.74,
+      "gen_delta": -2.89
+    },
+    {
+      "party": "Independent",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2009,
+      "gen_year": 2011,
+      "prev_gen_year": "2007",
+      "pred_delta": 6.95,
+      "gen_delta": 6.18
+    },
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "LOCAL",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": 7.88,
+      "gen_delta": 6.85
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "LOCAL",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": -12.07,
+      "gen_delta": -10.55
+    },
+    {
+      "party": "Labour",
+      "pred_type": "LOCAL",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": -12.27,
+      "gen_delta": -12.83
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "LOCAL",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": 5.33,
+      "gen_delta": 3.93
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "LOCAL",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": -0.26,
+      "gen_delta": 0.88
+    },
+    {
+      "party": "Independent",
+      "pred_type": "LOCAL",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": 11.14,
+      "gen_delta": -0.35
+    },
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": 6.69,
+      "gen_delta": 6.85
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": -12.0,
+      "gen_delta": -10.55
+    },
+    {
+      "party": "Labour",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": -13.69,
+      "gen_delta": -12.83
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": 2.99,
+      "gen_delta": 3.93
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": 3.47,
+      "gen_delta": 0.88
+    },
+    {
+      "party": "Independent",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2014,
+      "gen_year": 2016,
+      "prev_gen_year": "2011",
+      "pred_delta": 10.08,
+      "gen_delta": -0.35
+    },
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "LOCAL",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": 2.61,
+      "gen_delta": -2.1
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "LOCAL",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": -0.3,
+      "gen_delta": -4.67
+    },
+    {
+      "party": "Labour",
+      "pred_type": "LOCAL",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": -0.88,
+      "gen_delta": -2.24
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "LOCAL",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": -4.4,
+      "gen_delta": 10.68
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "LOCAL",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": 2.81,
+      "gen_delta": 4.41
+    },
+    {
+      "party": "Independent",
+      "pred_type": "LOCAL",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": 8.6,
+      "gen_delta": 1.09
+    },
+    {
+      "party": "Fianna Fáil",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": -6.29,
+      "gen_delta": -2.1
+    },
+    {
+      "party": "Fine Gael",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": 6.63,
+      "gen_delta": -4.67
+    },
+    {
+      "party": "Labour",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": -3.2,
+      "gen_delta": -2.24
+    },
+    {
+      "party": "Sinn Féin",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": -6.28,
+      "gen_delta": 10.68
+    },
+    {
+      "party": "Green Party",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": 9.64,
+      "gen_delta": 4.41
+    },
+    {
+      "party": "Independent",
+      "pred_type": "EUROPEAN",
+      "pred_year": 2019,
+      "gen_year": 2020,
+      "prev_gen_year": "2016",
+      "pred_delta": 2.41,
+      "gen_delta": 1.09
+    }
+  ],
+  "most_elections_won": [
+    {
+      "candidate": "Patrick Hogan",
+      "wins": 19,
+      "years": [
+        1922,
+        1923,
+        1923,
+        1923,
+        1927,
+        1927,
+        1927,
+        1927,
+        1932,
+        1932,
+        1933,
+        1933,
+        1937,
+        1943,
+        1948,
+        1951,
+        1961,
+        1965,
+        1969
+      ],
+      "parties": [
+        "Labour",
+        "Farmers' Party",
+        "Fine Gael",
+        "Sinn Féin (Pro-Treaty)",
+        "Cumann na nGaedheal"
+      ],
+      "constituencies": [
+        "Clare",
+        "Limerick",
+        "Tipperary South",
+        "Galway"
+      ]
+    },
+    {
+      "candidate": "Paddy Smith",
+      "wins": 17,
+      "years": [
+        1923,
+        1927,
+        1927,
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        1965,
+        1969,
+        1973
+      ],
+      "parties": [
+        "Republican",
+        "Fianna Fáil"
+      ],
+      "constituencies": [
+        "Cavan"
+      ]
+    },
+    {
+      "candidate": "Tom McEllistrim",
+      "wins": 17,
+      "years": [
+        1923,
+        1927,
+        1927,
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        1965,
+        2002,
+        2007
+      ],
+      "parties": [
+        "Fianna Fáil",
+        "Republican"
+      ],
+      "constituencies": [
+        "Kerry North",
+        "Kerry"
+      ]
+    },
+    {
+      "candidate": "Frank Aiken",
+      "wins": 16,
+      "years": [
+        1923,
+        1927,
+        1927,
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        1965,
+        1969
+      ],
+      "parties": [
+        "Republican",
+        "Fianna Fáil"
+      ],
+      "constituencies": [
+        "Louth"
+      ]
+    },
+    {
+      "candidate": "James Everett",
+      "wins": 15,
+      "years": [
+        1923,
+        1927,
+        1927,
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        1965
+      ],
+      "parties": [
+        "Labour",
+        "National Labour Party"
+      ],
+      "constituencies": [
+        "Wicklow"
+      ]
+    },
+    {
+      "candidate": "Neil Blaney",
+      "wins": 15,
+      "years": [
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        1965,
+        1969,
+        1973,
+        1977,
+        1981,
+        1982,
+        1982,
+        1987,
+        1989,
+        1992
+      ],
+      "parties": [
+        "Fianna Fáil",
+        "Independent Fianna Fáil"
+      ],
+      "constituencies": [
+        "Donegal East",
+        "Donegal North–East",
+        "Donegal"
+      ]
+    },
+    {
+      "candidate": "James Ryan",
+      "wins": 14,
+      "years": [
+        1923,
+        1927,
+        1927,
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961
+      ],
+      "parties": [
+        "Republican",
+        "Fianna Fáil"
+      ],
+      "constituencies": [
+        "Wexford"
+      ]
+    },
+    {
+      "candidate": "John O'Leary",
+      "wins": 14,
+      "years": [
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1969,
+        1973,
+        1977,
+        1981,
+        1982,
+        1982,
+        1987,
+        1989,
+        1992
+      ],
+      "parties": [
+        "Fianna Fáil",
+        "Labour",
+        "National Labour Party"
+      ],
+      "constituencies": [
+        "Kerry South",
+        "Wexford"
+      ]
+    },
+    {
+      "candidate": "Martin Corry",
+      "wins": 14,
+      "years": [
+        1927,
+        1927,
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        1965
+      ],
+      "parties": [
+        "Fianna Fáil"
+      ],
+      "constituencies": [
+        "Cork East",
+        "Cork South–East",
+        "Cork North–East"
+      ]
+    },
+    {
+      "candidate": "Michael Kennedy",
+      "wins": 14,
+      "years": [
+        1927,
+        1927,
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        2007
+      ],
+      "parties": [
+        "Fianna Fáil"
+      ],
+      "constituencies": [
+        "Longford–Westmeath",
+        "Meath–Westmeath",
+        "Dublin North"
+      ]
+    },
+    {
+      "candidate": "Oliver J. Flanagan",
+      "wins": 14,
+      "years": [
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        1965,
+        1969,
+        1973,
+        1977,
+        1981,
+        1982,
+        1982
+      ],
+      "parties": [
+        "Independent",
+        "Fine Gael"
+      ],
+      "constituencies": [
+        "Laois–Offaly"
+      ]
+    },
+    {
+      "candidate": "Patrick Burke",
+      "wins": 14,
+      "years": [
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        1965,
+        1969
+      ],
+      "parties": [
+        "Cumann na nGaedheal",
+        "Fine Gael",
+        "Fianna Fáil"
+      ],
+      "constituencies": [
+        "Clare",
+        "Dublin County",
+        "Dublin County North"
+      ]
+    },
+    {
+      "candidate": "Seán MacEntee",
+      "wins": 14,
+      "years": [
+        1927,
+        1927,
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957,
+        1961,
+        1965
+      ],
+      "parties": [
+        "Fianna Fáil"
+      ],
+      "constituencies": [
+        "Dublin County",
+        "Dublin Townships",
+        "Dublin South–East"
+      ]
+    },
+    {
+      "candidate": "Gerald Boland",
+      "wins": 13,
+      "years": [
+        1923,
+        1927,
+        1927,
+        1932,
+        1933,
+        1937,
+        1938,
+        1943,
+        1944,
+        1948,
+        1951,
+        1954,
+        1957
+      ],
+      "parties": [
+        "Republican",
+        "Fianna Fáil"
+      ],
+      "constituencies": [
+        "Roscommon"
+      ]
+    },
+    {
+      "candidate": "Thomas J. Fitzpatrick",
+      "wins": 13,
+      "years": [
+        1965,
+        1965,
+        1969,
+        1969,
+        1973,
+        1973,
+        1977,
+        1977,
+        1981,
+        1981,
+        1982,
+        1982,
+        1982
+      ],
+      "parties": [
+        "Fine Gael",
+        "Fianna Fáil"
+      ],
+      "constituencies": [
+        "Cavan",
+        "Cavan–Monaghan",
+        "Dublin South–Central",
+        "Dublin Central"
+      ]
+    }
+  ],
+  "highest_quota_dominance": [
+    {
+      "candidate": "Noel Davern",
+      "avg_quota_pct": 211.1,
+      "elections": 8,
+      "parties": [
+        "Fianna Fáil"
+      ]
+    },
+    {
+      "candidate": "W. T. Cosgrave",
+      "avg_quota_pct": 171.8,
+      "elections": 10,
+      "parties": [
+        "Sinn Féin (Pro-Treaty)",
+        "Cumann na nGaedheal",
+        "Fine Gael"
+      ]
+    },
+    {
+      "candidate": "Alfred Byrne",
+      "avg_quota_pct": 153.7,
+      "elections": 12,
+      "parties": [
+        "Independent"
+      ]
+    },
+    {
+      "candidate": "Stephen Barrett",
+      "avg_quota_pct": 150.5,
+      "elections": 4,
+      "parties": [
+        "Fine Gael"
+      ]
+    },
+    {
+      "candidate": "Charles Haughey",
+      "avg_quota_pct": 149.5,
+      "elections": 11,
+      "parties": [
+        "Fianna Fáil"
+      ]
+    },
+    {
+      "candidate": "Gerry Collins",
+      "avg_quota_pct": 147.2,
+      "elections": 9,
+      "parties": [
+        "Fianna Fáil"
+      ]
+    },
+    {
+      "candidate": "Bertie Ahern",
+      "avg_quota_pct": 146.0,
+      "elections": 10,
+      "parties": [
+        "Fianna Fáil"
+      ]
+    },
+    {
+      "candidate": "Jack Lynch",
+      "avg_quota_pct": 141.0,
+      "elections": 9,
+      "parties": [
+        "Fianna Fáil"
+      ]
+    },
+    {
+      "candidate": "Vivion de Valera",
+      "avg_quota_pct": 132.8,
+      "elections": 9,
+      "parties": [
+        "Fianna Fáil"
+      ]
+    },
+    {
+      "candidate": "Richard Mulcahy",
+      "avg_quota_pct": 131.8,
+      "elections": 12,
+      "parties": [
+        "Sinn Féin (Pro-Treaty)",
+        "Cumann na nGaedheal",
+        "Fine Gael"
+      ]
+    },
+    {
+      "candidate": "Brendan Griffin",
+      "avg_quota_pct": 131.7,
+      "elections": 9,
+      "parties": [
+        "Fine Gael"
+      ]
+    },
+    {
+      "candidate": "Willie O'Dea",
+      "avg_quota_pct": 129.3,
+      "elections": 11,
+      "parties": [
+        "Fianna Fáil"
+      ]
+    },
+    {
+      "candidate": "Neil Blaney",
+      "avg_quota_pct": 127.7,
+      "elections": 15,
+      "parties": [
+        "Fianna Fáil",
+        "Independent Fianna Fáil"
+      ]
+    },
+    {
+      "candidate": "Liam Cosgrave",
+      "avg_quota_pct": 126.7,
+      "elections": 11,
+      "parties": [
+        "Fine Gael"
+      ]
+    },
+    {
+      "candidate": "Eamonn Duggan",
+      "avg_quota_pct": 125.5,
+      "elections": 4,
+      "parties": [
+        "Cumann na nGaedheal"
+      ]
+    }
+  ]
+}

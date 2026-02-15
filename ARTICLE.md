@@ -113,6 +113,35 @@ But the model completely failed in one case: **Sinn Féin 2020**. In the 2019 lo
 
 What happened? Sinn Féin deliberately ran fewer candidates in local elections (conserving resources) and benefited from a late swing during the general election campaign, driven by housing and health issues that crystallised in the final weeks. It's a reminder that local elections measure the political landscape as it is, not as it's about to become.
 
+But there's a subtlety here. That r² of 0.84 is partly inflated by the fact that the same parties are always big — Fianna Fáil gets ~30% in locals and ~30% in generals, which creates an automatic correlation. A tougher question: **do gains and losses in local elections predict gains and losses in the next Dáil election?**
+
+![Delta Predictor](viz_delta_predictor.png)
+
+The answer is more modest. When we look at changes rather than levels, the correlation drops to r² = 0.48 for local elections and 0.39 for European elections. The direction of change (up or down) matches 72% of the time — better than a coin flip, but far from certain. A party that loses 5 points in the locals will *probably* lose in the next general election, but the magnitude is unpredictable.
+
+## The Strongest Politicians
+
+![Strongest Politicians](viz_strongest_politicians.png)
+
+Some politicians built careers that spanned decades and dozens of elections. Patrick Hogan holds the record with **19 general election wins** between 1922 and 1969 — nearly half a century of continuous service. The Tom McEllistrim entry spans three generations (grandfather, father, and son all used the same name), illustrating both a data challenge and a very Irish political tradition.
+
+On the quota dominance side, W.T. Cosgrave (first President of the Executive Council) averaged **172% of quota** across 10 elections — meaning he routinely received almost twice the votes needed to guarantee his seat. Charles Haughey and Bertie Ahern both averaged around 140–150%, reflecting the enormous personal votes that Taoiseach-level politicians attract.
+
+## Volatile vs Stable Constituencies
+
+![Volatile Constituencies](viz_volatile_constituencies.png)
+
+Not all constituencies are created equal. **Dublin South-East** is the most volatile long-running constituency, changing its dominant party 13 times across 18 elections. Urban Dublin constituencies in general are more volatile — they respond faster to national mood swings.
+
+At the other end, **Cork Mid** and **Donegal West** never changed dominant party in their entire history (always Fianna Fáil), and **Mayo** has been Fine Gael territory from start to finish. Rural western constituencies are remarkably stable, reflecting deeply entrenched local political dynasties.
+
+| Most Volatile | Changes | Most Stable | Dominant Party |
+|--------------|---------|-------------|---------------|
+| Dublin South-East | 13 | Cork Mid | Fianna Fáil |
+| Carlow-Kilkenny | 12 | Donegal West | Fianna Fáil |
+| Waterford | 12 | Mayo | Fine Gael |
+| Wicklow | 12 | Kerry North | Fianna Fáil |
+
 ## The Fianna Fáil Century
 
 ![Party Seats Over Time](viz_party_seats_time.png)
