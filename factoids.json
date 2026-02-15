@@ -1,0 +1,1118 @@
+{
+  "quota_analysis": {
+    "winners_mean": 0.845,
+    "winners_median": 0.82,
+    "winners_std": 0.325,
+    "losers_mean": 0.282,
+    "losers_median": 0.25,
+    "losers_std": 0.225,
+    "gap": 0.563
+  },
+  "exceeded_quota_but_lost": {
+    "count": 4,
+    "cases": [
+      {
+        "year": 1977,
+        "candidate": "Seán Byrne",
+        "constituency_name": "Tipperary South",
+        "party": "Fianna Fáil",
+        "quota_ratio": 5.71
+      },
+      {
+        "year": 1977,
+        "candidate": "Michael Ferris",
+        "constituency_name": "Tipperary South",
+        "party": "Labour Party",
+        "quota_ratio": 4.87
+      },
+      {
+        "year": 1977,
+        "candidate": "Hubert Burke",
+        "constituency_name": "Tipperary South",
+        "party": "Fine Gael",
+        "quota_ratio": 3.03
+      },
+      {
+        "year": 1948,
+        "candidate": "Joseph McGinley",
+        "constituency_name": "Donegal East",
+        "party": "Fine Gael",
+        "quota_ratio": 2.05
+      }
+    ]
+  },
+  "party_trends": [
+    {
+      "decade": 1920,
+      "party": "Cumann na nGaedheal",
+      "wins": 155,
+      "candidates": 269,
+      "win_rate": 57.6
+    },
+    {
+      "decade": 1920,
+      "party": "Fianna Fáil",
+      "wins": 91,
+      "candidates": 162,
+      "win_rate": 56.2
+    },
+    {
+      "decade": 1920,
+      "party": "Independent",
+      "wins": 36,
+      "candidates": 180,
+      "win_rate": 20.0
+    },
+    {
+      "decade": 1920,
+      "party": "Labour",
+      "wins": 55,
+      "candidates": 120,
+      "win_rate": 45.8
+    },
+    {
+      "decade": 1920,
+      "party": "Sinn Féin",
+      "wins": 5,
+      "candidates": 68,
+      "win_rate": 7.4
+    },
+    {
+      "decade": 1930,
+      "party": "Cumann na nGaedheal",
+      "wins": 95,
+      "candidates": 171,
+      "win_rate": 55.6
+    },
+    {
+      "decade": 1930,
+      "party": "Fianna Fáil",
+      "wins": 268,
+      "candidates": 380,
+      "win_rate": 70.5
+    },
+    {
+      "decade": 1930,
+      "party": "Fine Gael",
+      "wins": 86,
+      "candidates": 165,
+      "win_rate": 52.1
+    },
+    {
+      "decade": 1930,
+      "party": "Independent",
+      "wins": 28,
+      "candidates": 86,
+      "win_rate": 32.6
+    },
+    {
+      "decade": 1930,
+      "party": "Labour",
+      "wins": 37,
+      "candidates": 104,
+      "win_rate": 35.6
+    },
+    {
+      "decade": 1940,
+      "party": "Clann na Talmhan",
+      "wins": 33,
+      "candidates": 57,
+      "win_rate": 57.9
+    },
+    {
+      "decade": 1940,
+      "party": "Fianna Fáil",
+      "wins": 193,
+      "candidates": 311,
+      "win_rate": 62.1
+    },
+    {
+      "decade": 1940,
+      "party": "Fine Gael",
+      "wins": 84,
+      "candidates": 213,
+      "win_rate": 39.4
+    },
+    {
+      "decade": 1940,
+      "party": "Independent",
+      "wins": 29,
+      "candidates": 158,
+      "win_rate": 18.4
+    },
+    {
+      "decade": 1940,
+      "party": "Labour",
+      "wins": 39,
+      "candidates": 141,
+      "win_rate": 27.7
+    },
+    {
+      "decade": 1950,
+      "party": "Clann na Talmhan",
+      "wins": 11,
+      "candidates": 26,
+      "win_rate": 42.3
+    },
+    {
+      "decade": 1950,
+      "party": "Fianna Fáil",
+      "wins": 202,
+      "candidates": 331,
+      "win_rate": 61.0
+    },
+    {
+      "decade": 1950,
+      "party": "Fine Gael",
+      "wins": 123,
+      "candidates": 241,
+      "win_rate": 51.0
+    },
+    {
+      "decade": 1950,
+      "party": "Independent",
+      "wins": 31,
+      "candidates": 81,
+      "win_rate": 38.3
+    },
+    {
+      "decade": 1950,
+      "party": "Labour",
+      "wins": 45,
+      "candidates": 107,
+      "win_rate": 42.1
+    },
+    {
+      "decade": 1950,
+      "party": "Sinn Féin",
+      "wins": 4,
+      "candidates": 21,
+      "win_rate": 19.0
+    },
+    {
+      "decade": 1960,
+      "party": "Clann na Talmhan",
+      "wins": 2,
+      "candidates": 6,
+      "win_rate": 33.3
+    },
+    {
+      "decade": 1960,
+      "party": "Fianna Fáil",
+      "wins": 208,
+      "candidates": 331,
+      "win_rate": 62.8
+    },
+    {
+      "decade": 1960,
+      "party": "Fine Gael",
+      "wins": 140,
+      "candidates": 318,
+      "win_rate": 44.0
+    },
+    {
+      "decade": 1960,
+      "party": "Independent",
+      "wins": 9,
+      "candidates": 75,
+      "win_rate": 12.0
+    },
+    {
+      "decade": 1960,
+      "party": "Labour",
+      "wins": 54,
+      "candidates": 174,
+      "win_rate": 31.0
+    },
+    {
+      "decade": 1960,
+      "party": "Sinn Féin",
+      "wins": 0,
+      "candidates": 21,
+      "win_rate": 0.0
+    },
+    {
+      "decade": 1970,
+      "party": "Fianna Fáil",
+      "wins": 150,
+      "candidates": 247,
+      "win_rate": 60.7
+    },
+    {
+      "decade": 1970,
+      "party": "Fine Gael",
+      "wins": 97,
+      "candidates": 226,
+      "win_rate": 42.9
+    },
+    {
+      "decade": 1970,
+      "party": "Independent",
+      "wins": 4,
+      "candidates": 84,
+      "win_rate": 4.8
+    },
+    {
+      "decade": 1970,
+      "party": "Labour",
+      "wins": 35,
+      "candidates": 107,
+      "win_rate": 32.7
+    },
+    {
+      "decade": 1980,
+      "party": "Fianna Fáil",
+      "wins": 383,
+      "candidates": 629,
+      "win_rate": 60.9
+    },
+    {
+      "decade": 1980,
+      "party": "Fine Gael",
+      "wins": 297,
+      "candidates": 527,
+      "win_rate": 56.4
+    },
+    {
+      "decade": 1980,
+      "party": "Independent",
+      "wins": 9,
+      "candidates": 286,
+      "win_rate": 3.1
+    },
+    {
+      "decade": 1980,
+      "party": "Labour",
+      "wins": 70,
+      "candidates": 203,
+      "win_rate": 34.5
+    },
+    {
+      "decade": 1980,
+      "party": "Sinn Féin",
+      "wins": 0,
+      "candidates": 46,
+      "win_rate": 0.0
+    },
+    {
+      "decade": 1990,
+      "party": "Fianna Fáil",
+      "wins": 141,
+      "candidates": 228,
+      "win_rate": 61.8
+    },
+    {
+      "decade": 1990,
+      "party": "Fine Gael",
+      "wins": 94,
+      "candidates": 177,
+      "win_rate": 53.1
+    },
+    {
+      "decade": 1990,
+      "party": "Independent",
+      "wins": 8,
+      "candidates": 205,
+      "win_rate": 3.9
+    },
+    {
+      "decade": 1990,
+      "party": "Labour",
+      "wins": 48,
+      "candidates": 84,
+      "win_rate": 57.1
+    },
+    {
+      "decade": 1990,
+      "party": "Sinn Féin",
+      "wins": 1,
+      "candidates": 56,
+      "win_rate": 1.8
+    },
+    {
+      "decade": 2000,
+      "party": "Fianna Fáil",
+      "wins": 156,
+      "candidates": 211,
+      "win_rate": 73.9
+    },
+    {
+      "decade": 2000,
+      "party": "Fine Gael",
+      "wins": 80,
+      "candidates": 172,
+      "win_rate": 46.5
+    },
+    {
+      "decade": 2000,
+      "party": "Independent",
+      "wins": 16,
+      "candidates": 156,
+      "win_rate": 10.3
+    },
+    {
+      "decade": 2000,
+      "party": "Labour",
+      "wins": 39,
+      "candidates": 94,
+      "win_rate": 41.5
+    },
+    {
+      "decade": 2000,
+      "party": "Sinn Féin",
+      "wins": 9,
+      "candidates": 78,
+      "win_rate": 11.5
+    },
+    {
+      "decade": 2010,
+      "party": "Fianna Fáil",
+      "wins": 63,
+      "candidates": 146,
+      "win_rate": 43.2
+    },
+    {
+      "decade": 2010,
+      "party": "Fine Gael",
+      "wins": 125,
+      "candidates": 193,
+      "win_rate": 64.8
+    },
+    {
+      "decade": 2010,
+      "party": "Independent",
+      "wins": 26,
+      "candidates": 309,
+      "win_rate": 8.4
+    },
+    {
+      "decade": 2010,
+      "party": "Labour",
+      "wins": 44,
+      "candidates": 104,
+      "win_rate": 42.3
+    },
+    {
+      "decade": 2010,
+      "party": "Sinn Féin",
+      "wins": 37,
+      "candidates": 91,
+      "win_rate": 40.7
+    },
+    {
+      "decade": 2020,
+      "party": "Fianna Fáil",
+      "wins": 37,
+      "candidates": 85,
+      "win_rate": 43.5
+    },
+    {
+      "decade": 2020,
+      "party": "Fine Gael",
+      "wins": 35,
+      "candidates": 82,
+      "win_rate": 42.7
+    },
+    {
+      "decade": 2020,
+      "party": "Independent",
+      "wins": 19,
+      "candidates": 126,
+      "win_rate": 15.1
+    },
+    {
+      "decade": 2020,
+      "party": "Labour",
+      "wins": 6,
+      "candidates": 31,
+      "win_rate": 19.4
+    },
+    {
+      "decade": 2020,
+      "party": "Sinn Féin",
+      "wins": 37,
+      "candidates": 42,
+      "win_rate": 88.1
+    }
+  ],
+  "party_overall": {
+    "wins": {
+      "Fianna Fáil": 1892,
+      "Fine Gael": 1161,
+      "Labour": 472,
+      "Cumann na nGaedheal": 250,
+      "Independent": 215,
+      "Sinn Féin": 93,
+      "Clann na Talmhan": 46,
+      "Progressive Democrats": 44,
+      "Republican": 42,
+      "Farmers' Party": 36,
+      "Green Party": 30,
+      "Sinn Féin (Pro-Treaty)": 25,
+      "Clann na Poblachta": 18,
+      "Workers' Party": 13,
+      "National Centre Party": 11
+    },
+    "candidates": {
+      "Fianna Fáil": 3061,
+      "Fine Gael": 2314,
+      "Labour": 1269,
+      "Cumann na nGaedheal": 440,
+      "Independent": 1746,
+      "Sinn Féin": 423,
+      "Clann na Talmhan": 89,
+      "Progressive Democrats": 186,
+      "Republican": 81,
+      "Farmers' Party": 131,
+      "Green Party": 253,
+      "Sinn Féin (Pro-Treaty)": 35,
+      "Clann na Poblachta": 158,
+      "Workers' Party": 126,
+      "National Centre Party": 25
+    },
+    "avg_quota": {
+      "Fianna Fáil": 0.72,
+      "Fine Gael": 0.595,
+      "Labour": 0.49,
+      "Cumann na nGaedheal": 0.643,
+      "Independent": 0.225,
+      "Sinn Féin": 0.445,
+      "Clann na Talmhan": 0.571,
+      "Progressive Democrats": 0.376,
+      "Republican": 0.542,
+      "Farmers' Party": 0.419,
+      "Green Party": 0.216,
+      "Sinn Féin (Pro-Treaty)": 0.831,
+      "Clann na Poblachta": 0.297,
+      "Workers' Party": 0.238,
+      "National Centre Party": 0.644
+    },
+    "median_quota": {
+      "Fianna Fáil": 0.7,
+      "Fine Gael": 0.58,
+      "Labour": 0.4,
+      "Cumann na nGaedheal": 0.55,
+      "Independent": 0.11,
+      "Sinn Féin": 0.33,
+      "Clann na Talmhan": 0.59,
+      "Progressive Democrats": 0.32,
+      "Republican": 0.47,
+      "Farmers' Party": 0.34,
+      "Green Party": 0.16,
+      "Sinn Féin (Pro-Treaty)": 0.89,
+      "Clann na Poblachta": 0.23,
+      "Workers' Party": 0.135,
+      "National Centre Party": 0.67
+    },
+    "win_rate": {
+      "Fianna Fáil": 61.8,
+      "Fine Gael": 50.2,
+      "Labour": 37.2,
+      "Cumann na nGaedheal": 56.8,
+      "Independent": 12.3,
+      "Sinn Féin": 22.0,
+      "Clann na Talmhan": 51.7,
+      "Progressive Democrats": 23.7,
+      "Republican": 51.9,
+      "Farmers' Party": 27.5,
+      "Green Party": 11.9,
+      "Sinn Féin (Pro-Treaty)": 71.4,
+      "Clann na Poblachta": 11.4,
+      "Workers' Party": 10.3,
+      "National Centre Party": 44.0
+    }
+  },
+  "most_competitive_constituencies": {
+    "avg_winner_quota": {
+      "Dublin County South": 0.678,
+      "Dublin Rathdown": 0.69,
+      "Longford–Roscommon": 0.694,
+      "Athlone–Longford": 0.712,
+      "Dublin Bay North": 0.726,
+      "Sligo–North Leitrim": 0.738,
+      "Clare": 0.743,
+      "Dublin South–Central": 0.757,
+      "Dublin Bay South": 0.759,
+      "Sligo–Leitrim": 0.759
+    },
+    "std_winner_quota": {
+      "Dublin County South": 0.198,
+      "Dublin Rathdown": 0.205,
+      "Longford–Roscommon": 0.177,
+      "Athlone–Longford": 0.189,
+      "Dublin Bay North": 0.408,
+      "Sligo–North Leitrim": 0.132,
+      "Clare": 0.257,
+      "Dublin South–Central": 0.274,
+      "Dublin Bay South": 0.176,
+      "Sligo–Leitrim": 0.174
+    },
+    "elections": {
+      "Dublin County South": 8,
+      "Dublin Rathdown": 6,
+      "Longford–Roscommon": 12,
+      "Athlone–Longford": 5,
+      "Dublin Bay North": 10,
+      "Sligo–North Leitrim": 6,
+      "Clare": 110,
+      "Dublin South–Central": 81,
+      "Dublin Bay South": 8,
+      "Sligo–Leitrim": 77
+    }
+  },
+  "safest_constituencies": {
+    "avg_winner_quota": {
+      "Tipperary South": 1.04,
+      "Limerick West": 1.023,
+      "Donegal East": 1.006,
+      "Cork City South–East": 1.005,
+      "Dublin Townships": 0.999,
+      "Galway South": 0.962,
+      "Cork Mid": 0.955,
+      "Leitrim": 0.955,
+      "Donegal North–East": 0.95,
+      "Monaghan": 0.942
+    },
+    "std_winner_quota": {
+      "Tipperary South": 1.307,
+      "Limerick West": 0.287,
+      "Donegal East": 0.514,
+      "Cork City South–East": 0.399,
+      "Dublin Townships": 0.154,
+      "Galway South": 0.3,
+      "Cork Mid": 0.232,
+      "Leitrim": 0.197,
+      "Donegal North–East": 0.198,
+      "Monaghan": 0.282
+    },
+    "elections": {
+      "Tipperary South": 68,
+      "Limerick West": 54,
+      "Donegal East": 19,
+      "Cork City South–East": 6,
+      "Dublin Townships": 12,
+      "Galway South": 10,
+      "Cork Mid": 21,
+      "Leitrim": 12,
+      "Donegal North–East": 42,
+      "Monaghan": 50
+    }
+  },
+  "yearly_stats": {
+    "total_candidates": {
+      "1921": 53,
+      "1922": 76,
+      "1923": 355,
+      "1927": 595,
+      "1932": 259,
+      "1933": 229,
+      "1937": 247,
+      "1938": 205,
+      "1943": 343,
+      "1944": 243,
+      "1948": 401,
+      "1951": 289,
+      "1954": 296,
+      "1957": 281,
+      "1961": 296,
+      "1965": 276,
+      "1969": 368,
+      "1973": 330,
+      "1977": 371,
+      "1981": 399,
+      "1982": 719,
+      "1987": 461,
+      "1989": 367,
+      "1992": 476,
+      "1997": 478,
+      "2002": 458,
+      "2007": 467,
+      "2011": 567,
+      "2016": 549,
+      "2020": 530
+    },
+    "seats_filled": {
+      "1921": 0,
+      "1922": 45,
+      "1923": 141,
+      "1927": 272,
+      "1932": 137,
+      "1933": 138,
+      "1937": 129,
+      "1938": 124,
+      "1943": 129,
+      "1944": 127,
+      "1948": 141,
+      "1951": 141,
+      "1954": 141,
+      "1957": 140,
+      "1961": 138,
+      "1965": 139,
+      "1969": 140,
+      "1973": 142,
+      "1977": 146,
+      "1981": 162,
+      "1982": 326,
+      "1987": 161,
+      "1989": 160,
+      "1992": 159,
+      "1997": 161,
+      "2002": 163,
+      "2007": 162,
+      "2011": 167,
+      "2016": 157,
+      "2020": 159
+    },
+    "constituencies": {
+      "1921": 13,
+      "1922": 13,
+      "1923": 28,
+      "1927": 28,
+      "1932": 28,
+      "1933": 28,
+      "1937": 34,
+      "1938": 34,
+      "1943": 34,
+      "1944": 34,
+      "1948": 40,
+      "1951": 40,
+      "1954": 40,
+      "1957": 40,
+      "1961": 38,
+      "1965": 38,
+      "1969": 42,
+      "1973": 42,
+      "1977": 42,
+      "1981": 41,
+      "1982": 41,
+      "1987": 41,
+      "1989": 41,
+      "1992": 41,
+      "1997": 41,
+      "2002": 42,
+      "2007": 43,
+      "2011": 43,
+      "2016": 40,
+      "2020": 39
+    },
+    "candidates_per_seat": {
+      "1921": Infinity,
+      "1922": 1.69,
+      "1923": 2.52,
+      "1927": 2.19,
+      "1932": 1.89,
+      "1933": 1.66,
+      "1937": 1.91,
+      "1938": 1.65,
+      "1943": 2.66,
+      "1944": 1.91,
+      "1948": 2.84,
+      "1951": 2.05,
+      "1954": 2.1,
+      "1957": 2.01,
+      "1961": 2.14,
+      "1965": 1.99,
+      "1969": 2.63,
+      "1973": 2.32,
+      "1977": 2.54,
+      "1981": 2.46,
+      "1982": 2.21,
+      "1987": 2.86,
+      "1989": 2.29,
+      "1992": 2.99,
+      "1997": 2.97,
+      "2002": 2.81,
+      "2007": 2.88,
+      "2011": 3.4,
+      "2016": 3.5,
+      "2020": 3.33
+    }
+  },
+  "independent_trends": {
+    "wins": {
+      "1920": 36,
+      "1930": 28,
+      "1940": 29,
+      "1950": 31,
+      "1960": 9,
+      "1970": 4,
+      "1980": 9,
+      "1990": 8,
+      "2000": 16,
+      "2010": 26,
+      "2020": 19
+    },
+    "candidates": {
+      "1920": 180,
+      "1930": 86,
+      "1940": 158,
+      "1950": 81,
+      "1960": 75,
+      "1970": 84,
+      "1980": 286,
+      "1990": 205,
+      "2000": 156,
+      "2010": 309,
+      "2020": 126
+    },
+    "win_rate": {
+      "1920": 20.0,
+      "1930": 32.6,
+      "1940": 18.4,
+      "1950": 38.3,
+      "1960": 12.0,
+      "1970": 4.8,
+      "1980": 3.1,
+      "1990": 3.9,
+      "2000": 10.3,
+      "2010": 8.4,
+      "2020": 15.1
+    }
+  },
+  "closest_wins": [
+    {
+      "year": 1923,
+      "candidate": "Brian O'Higgins",
+      "constituency_name": "Clare",
+      "party": "Republican",
+      "quota_ratio": 0.02
+    },
+    {
+      "year": 2011,
+      "candidate": "Pat Kavanagh",
+      "constituency_name": "Wicklow",
+      "party": "Fís Nua",
+      "quota_ratio": 0.02
+    },
+    {
+      "year": 2011,
+      "candidate": "Ben Nutty",
+      "constituency_name": "Waterford",
+      "party": "Fís Nua",
+      "quota_ratio": 0.02
+    },
+    {
+      "year": 1923,
+      "candidate": "Seán Gibbons",
+      "constituency_name": "Carlow–Kilkenny",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 0.09
+    },
+    {
+      "year": 1922,
+      "candidate": "Seán Milroy",
+      "constituency_name": "Cavan",
+      "party": "Sinn Féin (Pro-Treaty)",
+      "quota_ratio": 0.09
+    },
+    {
+      "year": 1923,
+      "candidate": "Andrew O'Shaughnessy",
+      "constituency_name": "Cork Borough",
+      "party": "Businessmen's Party",
+      "quota_ratio": 0.11
+    },
+    {
+      "year": 1923,
+      "candidate": "Francis Cahill",
+      "constituency_name": "Dublin North",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 0.13
+    },
+    {
+      "year": 1927,
+      "candidate": "Denis Gorey",
+      "constituency_name": "Carlow–Kilkenny",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 0.14
+    },
+    {
+      "year": 2007,
+      "candidate": "Cyprian Brady",
+      "constituency_name": "Dublin Central",
+      "party": "Fianna Fáil",
+      "quota_ratio": 0.14
+    },
+    {
+      "year": 1982,
+      "candidate": "Denis Foley",
+      "constituency_name": "Kerry North",
+      "party": "Fianna Fáil",
+      "quota_ratio": 0.15
+    },
+    {
+      "year": 1982,
+      "candidate": "Denis Foley",
+      "constituency_name": "Kerry North",
+      "party": "Independent",
+      "quota_ratio": 0.15
+    },
+    {
+      "year": 1923,
+      "candidate": "Patrick Ryan",
+      "constituency_name": "Tipperary",
+      "party": "Independent",
+      "quota_ratio": 0.15
+    },
+    {
+      "year": 1923,
+      "candidate": "Patrick Ryan",
+      "constituency_name": "Tipperary",
+      "party": "Republican",
+      "quota_ratio": 0.15
+    },
+    {
+      "year": 2002,
+      "candidate": "John Dwyer",
+      "constituency_name": "Laois–Offaly",
+      "party": "Labour Party",
+      "quota_ratio": 0.15
+    },
+    {
+      "year": 1923,
+      "candidate": "John Crowley",
+      "constituency_name": "Mayo North",
+      "party": "Republican",
+      "quota_ratio": 0.16
+    },
+    {
+      "year": 1927,
+      "candidate": "Hugo Flinn",
+      "constituency_name": "Cork Borough",
+      "party": "Fianna Fáil",
+      "quota_ratio": 0.17
+    },
+    {
+      "year": 1932,
+      "candidate": "William Desmond",
+      "constituency_name": "Cork Borough",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 0.17
+    },
+    {
+      "year": 1933,
+      "candidate": "William Desmond",
+      "constituency_name": "Cork Borough",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 0.17
+    },
+    {
+      "year": 1927,
+      "candidate": "Frank Kerlin",
+      "constituency_name": "Dublin South",
+      "party": "Fianna Fáil",
+      "quota_ratio": 0.19
+    },
+    {
+      "year": 1927,
+      "candidate": "Barry Egan",
+      "constituency_name": "Cork Borough",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 0.19
+    }
+  ],
+  "biggest_landslides": [
+    {
+      "year": 1977,
+      "candidate": "Noel Davern",
+      "constituency_name": "Tipperary South",
+      "party": "Fianna Fáil",
+      "quota_ratio": 10.44,
+      "first_pref_pct": 0.348
+    },
+    {
+      "year": 1977,
+      "candidate": "Brendan Griffin",
+      "constituency_name": "Tipperary South",
+      "party": "Fine Gael",
+      "quota_ratio": 5.61,
+      "first_pref_pct": 0.187
+    },
+    {
+      "year": 1923,
+      "candidate": "Richard Mulcahy",
+      "constituency_name": "Dublin North",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 3.6,
+      "first_pref_pct": 0.4
+    },
+    {
+      "year": 1923,
+      "candidate": "Kevin O'Higgins",
+      "constituency_name": "Dublin County",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 3.27,
+      "first_pref_pct": 0.363
+    },
+    {
+      "year": 1948,
+      "candidate": "Neil Blaney",
+      "constituency_name": "Donegal East",
+      "party": "Fianna Fáil",
+      "quota_ratio": 2.82,
+      "first_pref_pct": 0.28
+    },
+    {
+      "year": 1923,
+      "candidate": "Philip Cosgrave",
+      "constituency_name": "Dublin South",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 2.77,
+      "first_pref_pct": 0.34700000000000003
+    },
+    {
+      "year": 1923,
+      "candidate": "W. T. Cosgrave",
+      "constituency_name": "Carlow–Kilkenny",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 2.65,
+      "first_pref_pct": 0.441
+    },
+    {
+      "year": 1927,
+      "candidate": "Alfred Byrne",
+      "constituency_name": "Dublin North",
+      "party": "Independent",
+      "quota_ratio": 2.52,
+      "first_pref_pct": 0.28
+    },
+    {
+      "year": 1923,
+      "candidate": "James Walsh",
+      "constituency_name": "Cork Borough",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 2.41,
+      "first_pref_pct": 0.40299999999999997
+    },
+    {
+      "year": 1977,
+      "candidate": "Jack Lynch",
+      "constituency_name": "Cork City",
+      "party": "Fianna Fáil",
+      "quota_ratio": 2.34,
+      "first_pref_pct": 0.391
+    },
+    {
+      "year": 1927,
+      "candidate": "W. T. Cosgrave",
+      "constituency_name": "Cork Borough",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 2.33,
+      "first_pref_pct": 0.389
+    },
+    {
+      "year": 1922,
+      "candidate": "William Davin",
+      "constituency_name": "Laois–Offaly",
+      "party": "Labour Party",
+      "quota_ratio": 2.33,
+      "first_pref_pct": 0.465
+    },
+    {
+      "year": 2007,
+      "candidate": "Willie O'Dea",
+      "constituency_name": "Limerick East",
+      "party": "Fianna Fáil",
+      "quota_ratio": 2.32,
+      "first_pref_pct": 0.386
+    },
+    {
+      "year": 1932,
+      "candidate": "Alfred Byrne",
+      "constituency_name": "Dublin North",
+      "party": "Independent",
+      "quota_ratio": 2.29,
+      "first_pref_pct": 0.254
+    },
+    {
+      "year": 1932,
+      "candidate": "W. T. Cosgrave",
+      "constituency_name": "Cork Borough",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 2.21,
+      "first_pref_pct": 0.368
+    },
+    {
+      "year": 1981,
+      "candidate": "Charles Haughey",
+      "constituency_name": "Dublin North–Central",
+      "party": "Fianna Fáil",
+      "quota_ratio": 2.17,
+      "first_pref_pct": 0.435
+    },
+    {
+      "year": 1922,
+      "candidate": "Arthur Griffith",
+      "constituency_name": "Cavan",
+      "party": "Sinn Féin (Pro-Treaty)",
+      "quota_ratio": 2.17,
+      "first_pref_pct": 0.544
+    },
+    {
+      "year": 1954,
+      "candidate": "Stephen Barrett",
+      "constituency_name": "Cork Borough",
+      "party": "Fine Gael",
+      "quota_ratio": 2.05,
+      "first_pref_pct": 0.342
+    },
+    {
+      "year": 1927,
+      "candidate": "Kevin O'Higgins",
+      "constituency_name": "Dublin County",
+      "party": "Cumann na nGaedheal",
+      "quota_ratio": 2.04,
+      "first_pref_pct": 0.22699999999999998
+    },
+    {
+      "year": 1922,
+      "candidate": "Darrell Figgis",
+      "constituency_name": "Dublin County",
+      "party": "Independent",
+      "quota_ratio": 2.04,
+      "first_pref_pct": 0.29100000000000004
+    }
+  ],
+  "regional_dominance": {
+    "Connacht": {
+      "Fianna Fáil": 205,
+      "Fine Gael": 131,
+      "Cumann na nGaedheal": 43
+    },
+    "Cork": {
+      "Fianna Fáil": 215,
+      "Fine Gael": 158,
+      "Labour": 74
+    },
+    "Dublin": {
+      "Fianna Fáil": 355,
+      "Fine Gael": 243,
+      "Labour": 122
+    },
+    "Galway": {
+      "Fianna Fáil": 123,
+      "Fine Gael": 56,
+      "Cumann na nGaedheal": 18
+    },
+    "Leinster (other)": {
+      "Fianna Fáil": 508,
+      "Fine Gael": 336,
+      "Labour": 182
+    },
+    "Limerick": {
+      "Fianna Fáil": 103,
+      "Fine Gael": 58,
+      "Labour": 24
+    },
+    "Munster (other)": {
+      "Fianna Fáil": 225,
+      "Fine Gael": 107,
+      "Labour": 62
+    },
+    "Ulster (ROI)": {
+      "Fianna Fáil": 158,
+      "Fine Gael": 72,
+      "Independent": 30
+    }
+  }
+}

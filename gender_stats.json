@@ -1,0 +1,400 @@
+{
+  "total": {
+    "male_candidates": 4325,
+    "female_candidates": 484,
+    "female_pct": 10.1
+  },
+  "winners": {
+    "male": 545,
+    "female": 71,
+    "female_pct": 11.5
+  },
+  "by_year": {
+    "female_candidates": {
+      "1922": 0,
+      "1923": 4,
+      "1927": 10,
+      "1932": 1,
+      "1933": 2,
+      "1937": 3,
+      "1938": 0,
+      "1943": 4,
+      "1944": 0,
+      "1951": 1,
+      "1954": 0,
+      "1957": 0,
+      "1961": 1,
+      "1965": 0,
+      "1969": 2,
+      "1973": 14,
+      "1977": 16,
+      "1981": 16,
+      "1982": 41,
+      "1987": 39,
+      "1989": 32,
+      "1992": 53,
+      "1997": 56,
+      "2002": 43,
+      "2007": 42,
+      "2011": 40,
+      "2016": 48,
+      "2020": 16
+    },
+    "male_candidates": {
+      "1922": 10,
+      "1923": 151,
+      "1927": 249,
+      "1932": 119,
+      "1933": 101,
+      "1937": 115,
+      "1938": 56,
+      "1943": 156,
+      "1944": 67,
+      "1951": 142,
+      "1954": 17,
+      "1957": 19,
+      "1961": 17,
+      "1965": 16,
+      "1969": 67,
+      "1973": 314,
+      "1977": 224,
+      "1981": 225,
+      "1982": 442,
+      "1987": 294,
+      "1989": 220,
+      "1992": 244,
+      "1997": 248,
+      "2002": 223,
+      "2007": 213,
+      "2011": 242,
+      "2016": 95,
+      "2020": 39
+    },
+    "female_pct": {
+      "1922": 0.0,
+      "1923": 2.6,
+      "1927": 3.9,
+      "1932": 0.8,
+      "1933": 1.9,
+      "1937": 2.5,
+      "1938": 0.0,
+      "1943": 2.5,
+      "1944": 0.0,
+      "1951": 0.7,
+      "1954": 0.0,
+      "1957": 0.0,
+      "1961": 5.6,
+      "1965": 0.0,
+      "1969": 2.9,
+      "1973": 4.3,
+      "1977": 6.7,
+      "1981": 6.6,
+      "1982": 8.5,
+      "1987": 11.7,
+      "1989": 12.7,
+      "1992": 17.8,
+      "1997": 18.4,
+      "2002": 16.2,
+      "2007": 16.5,
+      "2011": 14.2,
+      "2016": 33.1,
+      "2020": 29.1
+    }
+  },
+  "winners_by_year": {
+    "female_elected": {
+      "1922": 0,
+      "1923": 1,
+      "1927": 1,
+      "1932": 0,
+      "1933": 0,
+      "1943": 0,
+      "1989": 1,
+      "1992": 10,
+      "1997": 11,
+      "2002": 12,
+      "2007": 9,
+      "2011": 11,
+      "2016": 9,
+      "2020": 6
+    },
+    "male_elected": {
+      "1922": 7,
+      "1923": 34,
+      "1927": 7,
+      "1932": 3,
+      "1933": 8,
+      "1943": 8,
+      "1989": 21,
+      "1992": 95,
+      "1997": 90,
+      "2002": 82,
+      "2007": 80,
+      "2011": 67,
+      "2016": 31,
+      "2020": 12
+    },
+    "female_elected_pct": {
+      "1922": 0.0,
+      "1923": 2.9,
+      "1927": 12.5,
+      "1932": 0.0,
+      "1933": 0.0,
+      "1943": 0.0,
+      "1989": 4.5,
+      "1992": 9.5,
+      "1997": 10.9,
+      "2002": 12.8,
+      "2007": 10.1,
+      "2011": 14.1,
+      "2016": 22.5,
+      "2020": 33.3
+    }
+  },
+  "win_rates": {
+    "male": 12.6,
+    "female": 14.7
+  },
+  "female_by_party": [
+    {
+      "party": "Non party/Independent",
+      "gender": "Female",
+      "candidates": 105,
+      "elected": 5,
+      "win_rate": 4.8
+    },
+    {
+      "party": "Fine Gael",
+      "gender": "Female",
+      "candidates": 91,
+      "elected": 15,
+      "win_rate": 16.5
+    },
+    {
+      "party": "Fianna Fail",
+      "gender": "Female",
+      "candidates": 84,
+      "elected": 16,
+      "win_rate": 19.0
+    },
+    {
+      "party": "Labour",
+      "gender": "Female",
+      "candidates": 53,
+      "elected": 17,
+      "win_rate": 32.1
+    },
+    {
+      "party": "Green/Comhaontas Glas",
+      "gender": "Female",
+      "candidates": 35,
+      "elected": 1,
+      "win_rate": 2.9
+    },
+    {
+      "party": "Sinn Féin",
+      "gender": "Female",
+      "candidates": 31,
+      "elected": 6,
+      "win_rate": 19.4
+    },
+    {
+      "party": "Progressive Democrats",
+      "gender": "Female",
+      "candidates": 21,
+      "elected": 3,
+      "win_rate": 14.3
+    },
+    {
+      "party": "Workers'",
+      "gender": "Female",
+      "candidates": 13,
+      "elected": 0,
+      "win_rate": 0.0
+    }
+  ],
+  "pioneering_women": [
+    {
+      "candidate": "Mary MacSwiney",
+      "year": 1923,
+      "party": "Republican",
+      "constituency_name": "Cork Borough"
+    },
+    {
+      "candidate": "Margaret Collins O'Driscoll",
+      "year": 1927,
+      "party": "Cumann na nGaedheal",
+      "constituency_name": "Dublin North"
+    },
+    {
+      "candidate": "Mary Harney",
+      "year": 1989,
+      "party": "Progressive Democrats",
+      "constituency_name": "Dublin South West"
+    },
+    {
+      "candidate": "Liz McManus",
+      "year": 1992,
+      "party": "Democratic Left",
+      "constituency_name": "Wicklow"
+    },
+    {
+      "candidate": "Avril Doyle",
+      "year": 1992,
+      "party": "Fine Gael",
+      "constituency_name": "Wexford"
+    },
+    {
+      "candidate": "Mary Wallace",
+      "year": 1992,
+      "party": "Fianna Fail",
+      "constituency_name": "Meath"
+    },
+    {
+      "candidate": "Maire Geoghegan Quinn",
+      "year": 1992,
+      "party": "Fianna Fail",
+      "constituency_name": "Galway West"
+    },
+    {
+      "candidate": "Mary Harney",
+      "year": 1992,
+      "party": "Progressive Democrats",
+      "constituency_name": "Dublin South West"
+    },
+    {
+      "candidate": "Frances Fitzgerald",
+      "year": 1992,
+      "party": "Fine Gael",
+      "constituency_name": "Dublin South East"
+    },
+    {
+      "candidate": "Mary Flaherty",
+      "year": 1992,
+      "party": "Fine Gael",
+      "constituency_name": "Dublin North West"
+    }
+  ],
+  "most_elected_women": [
+    {
+      "candidate": "Roisin Shortall",
+      "first_elected": 1992,
+      "last_elected": 2016,
+      "times_elected": 6,
+      "party": "Labour",
+      "constituency": "Dublin North West"
+    },
+    {
+      "candidate": "Liz McManus",
+      "first_elected": 1992,
+      "last_elected": 2007,
+      "times_elected": 4,
+      "party": "Democratic Left",
+      "constituency": "Wicklow"
+    },
+    {
+      "candidate": "Mary Harney",
+      "first_elected": 1989,
+      "last_elected": 1997,
+      "times_elected": 3,
+      "party": "Progressive Democrats",
+      "constituency": "Dublin South West"
+    },
+    {
+      "candidate": "Breeda Moynihan Cronin",
+      "first_elected": 1992,
+      "last_elected": 2002,
+      "times_elected": 3,
+      "party": "Labour",
+      "constituency": "Kerry South"
+    },
+    {
+      "candidate": "Sile de Valera",
+      "first_elected": 1992,
+      "last_elected": 2002,
+      "times_elected": 3,
+      "party": "Fianna Fail",
+      "constituency": "Clare"
+    },
+    {
+      "candidate": "Catherine Byrne",
+      "first_elected": 2007,
+      "last_elected": 2016,
+      "times_elected": 3,
+      "party": "Fine Gael",
+      "constituency": "Dublin South Central"
+    },
+    {
+      "candidate": "Mary Wallace",
+      "first_elected": 1992,
+      "last_elected": 2002,
+      "times_elected": 3,
+      "party": "Fianna Fail",
+      "constituency": "Meath"
+    },
+    {
+      "candidate": "Mary Lou McDonald",
+      "first_elected": 2011,
+      "last_elected": 2016,
+      "times_elected": 2,
+      "party": "Sinn Féin",
+      "constituency": "Dublin Central"
+    },
+    {
+      "candidate": "Maire Hoctor",
+      "first_elected": 2002,
+      "last_elected": 2007,
+      "times_elected": 2,
+      "party": "Fianna Fail",
+      "constituency": "Tipperary North"
+    },
+    {
+      "candidate": "Mildred Fox",
+      "first_elected": 1997,
+      "last_elected": 2002,
+      "times_elected": 2,
+      "party": "Non party/Independent",
+      "constituency": "Wicklow"
+    },
+    {
+      "candidate": "Lucinda Creighton",
+      "first_elected": 2007,
+      "last_elected": 2011,
+      "times_elected": 2,
+      "party": "Fine Gael",
+      "constituency": "Dublin South East"
+    },
+    {
+      "candidate": "Joan Collins",
+      "first_elected": 2011,
+      "last_elected": 2016,
+      "times_elected": 2,
+      "party": "People Before Profit Alliance",
+      "constituency": "Dublin South Central"
+    },
+    {
+      "candidate": "Olwyn Enright",
+      "first_elected": 2002,
+      "last_elected": 2007,
+      "times_elected": 2,
+      "party": "Fine Gael",
+      "constituency": "Laoighis Offaly"
+    },
+    {
+      "candidate": "Jan O'Sullivan",
+      "first_elected": 2002,
+      "last_elected": 2007,
+      "times_elected": 2,
+      "party": "Labour",
+      "constituency": "Limerick East"
+    },
+    {
+      "candidate": "Mary Upton",
+      "first_elected": 2002,
+      "last_elected": 2007,
+      "times_elected": 2,
+      "party": "Labour",
+      "constituency": "Dublin South Central"
+    }
+  ]
+}

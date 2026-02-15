@@ -1,0 +1,17 @@
+# Irish Elections Analysis - Dependencies
+# For Streamlit Cloud deployment
+
+# Core
+pandas>=1.5.0
+numpy>=1.21.0
+pyarrow>=10.0.0
+
+# Visualization
+plotly>=5.10.0
+matplotlib>=3.5.0
+
+# Web app
+streamlit>=1.20.0
+
+# Text matching (for data pipeline)
+jellyfish>=0.9.0

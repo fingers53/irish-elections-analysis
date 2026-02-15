@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What 100 Years of Irish Elections Tell Us About Winning</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            line-height: 1.7;
+            color: #1a1a1a;
+            background: #fafaf8;
+        }
+
+        .header {
+            background: #1b3a2d;
+            color: #f0f0ec;
+            padding: 4rem 1.5rem 3rem;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.4rem;
+            max-width: 720px;
+            margin: 0 auto 1rem;
+            line-height: 1.2;
+        }
+
+        .header .subtitle {
+            font-style: italic;
+            font-size: 1.1rem;
+            opacity: 0.85;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        article {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 2.5rem 1.5rem 4rem;
+        }
+
+        h2 {
+            font-size: 1.6rem;
+            margin: 2.5rem 0 1rem;
+            color: #1b3a2d;
+            border-bottom: 2px solid #d4cfc4;
+            padding-bottom: 0.4rem;
+        }
+
+        p { margin-bottom: 1.2rem; }
+
+        strong { color: #1b3a2d; }
+
+        img {
+            width: 100%;
+            max-width: 680px;
+            display: block;
+            margin: 1.5rem auto;
+            border: 1px solid #e0ddd5;
+            border-radius: 4px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0 1.5rem;
+            font-size: 0.95rem;
+        }
+
+        th {
+            background: #1b3a2d;
+            color: #f0f0ec;
+            padding: 0.6rem 0.8rem;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 0.5rem 0.8rem;
+            border-bottom: 1px solid #e0ddd5;
+        }
+
+        tr:nth-child(even) td { background: #f3f2ee; }
+
+        code {
+            background: #f3f2ee;
+            padding: 0.8rem 1.2rem;
+            display: block;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+            border-left: 3px solid #1b3a2d;
+            margin: 1rem 0;
+        }
+
+        ol, ul {
+            margin: 0.8rem 0 1.2rem 1.5rem;
+        }
+
+        li { margin-bottom: 0.5rem; }
+
+        hr {
+            border: none;
+            border-top: 1px solid #d4cfc4;
+            margin: 2rem 0;
+        }
+
+        .methodology {
+            background: #f3f2ee;
+            padding: 1.5rem;
+            border-radius: 6px;
+            margin-top: 2rem;
+        }
+
+        .methodology h2 {
+            border-bottom: none;
+            margin-top: 0;
+        }
+
+        a { color: #1b3a2d; }
+
+        @media (max-width: 600px) {
+            .header h1 { font-size: 1.7rem; }
+            h2 { font-size: 1.3rem; }
+            table { font-size: 0.85rem; }
+            th, td { padding: 0.4rem 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>What 100 Years of Irish Elections Tell Us About Winning</h1>
+    <p class="subtitle">A data-driven dive into 36,000 candidate records reveals the mathematics of victory in Ireland's unique electoral system</p>
+</div>
+
+<article>
+
+<p>Ireland uses one of the most complex voting systems in the world: Single Transferable Vote (STV) with multi-seat constituencies. Voters rank candidates by preference, and votes are transferred when candidates are elected or eliminated until all seats are filled.</p>
+
+<p>But what does it actually take to win under this system?</p>
+
+<p>I analyzed over 36,000 candidate records spanning 100 years of Irish elections (1920&ndash;2020) to find out. The results reveal surprising patterns about party efficiency, the rise and fall of independents, and just how far STV's transfer system can stretch.</p>
+
+<h2>The Magic Number: 82% of Quota</h2>
+
+<img src="viz_quota_distribution.png" alt="Quota distribution for winners vs losers">
+
+<p>Under STV, each constituency has a <strong>quota</strong> &mdash; the minimum number of votes needed to guarantee election. It's calculated as:</p>
+
+<code>Quota = (Total Valid Votes / (Seats + 1)) + 1</code>
+
+<p><strong>Key Finding</strong>: Winning candidates typically receive <strong>82% of the quota</strong> on first preference votes alone. Losers average just <strong>25%</strong>.</p>
+
+<p>This gap &mdash; 57 percentage points &mdash; is the difference between victory and defeat in Irish politics. While STV allows for vote transfers from eliminated candidates, the data shows that first preferences remain the dominant factor.</p>
+
+<table>
+    <tr><th>Metric</th><th>Winners</th><th>Losers</th></tr>
+    <tr><td>Mean quota ratio</td><td>84.5%</td><td>28.2%</td></tr>
+    <tr><td>Median quota ratio</td><td>82%</td><td>25%</td></tr>
+    <tr><td>Standard deviation</td><td>32.5%</td><td>22.5%</td></tr>
+</table>
+
+<h2>The Extremes of STV: Winning Without Votes</h2>
+
+<p>STV can produce outcomes that look impossible at first glance. The most striking examples are candidates who won their seats with almost no first-preference votes &mdash; carried entirely by transfers from other candidates.</p>
+
+<table>
+    <tr><th>Year</th><th>Candidate</th><th>Constituency</th><th>Quota Ratio</th><th>How They Won</th></tr>
+    <tr><td>1923</td><td>Brian O'Higgins</td><td>Clare</td><td><strong>2%</strong></td><td>&Eacute;amon de Valera's massive surplus</td></tr>
+    <tr><td>2007</td><td>Cyprian Brady</td><td>Dublin Central</td><td><strong>14%</strong></td><td>Bertie Ahern's surplus transfers</td></tr>
+    <tr><td>1982</td><td>Denis Foley</td><td>Kerry North</td><td><strong>15%</strong></td><td>Late transfers from eliminated candidates</td></tr>
+</table>
+
+<p>Brian O'Higgins won his seat with just <strong>2% of the quota</strong> on first preferences &mdash; around 500 votes in a constituency where the quota was over 10,000. He was carried by transfers from &Eacute;amon de Valera, who had a huge personal vote. It remains one of the most extreme examples of STV's transfer mechanism in action.</p>
+
+<p>Cyprian Brady's 2007 win was controversial. He was Bertie Ahern's running mate in Dublin Central, and Ahern's office sent a letter to 30,000 constituents asking for second preferences for Brady. With only 939 first-preference votes, Brady was elected on Ahern's surplus. It showed both the power and the limits of vote management &mdash; Brady lost his seat at the next election when Ahern was no longer on the ballot.</p>
+
+<p>These cases highlight something fundamental about STV: first preferences dominate, but in the right circumstances, a well-placed candidate can ride someone else's coattails all the way to the D&aacute;il.</p>
+
+<h2>The Rise of Sinn F&eacute;in: From 0% to 88%</h2>
+
+<img src="viz_sinn_fein_rise.png" alt="Sinn Féin win rate over time">
+
+<p>One of the most dramatic stories in the data is Sinn F&eacute;in's electoral trajectory.</p>
+
+<p>In the 1960s, Sinn F&eacute;in candidates won <strong>0%</strong> of their races. Throughout the 1980s: still 0%. Even by 1997, they had won just <strong>one</strong> D&aacute;il seat.</p>
+
+<p>Then came 2020.</p>
+
+<table>
+    <tr><th>Decade</th><th>Wins</th><th>Win Rate</th></tr>
+    <tr><td>1960s</td><td>0</td><td>0%</td></tr>
+    <tr><td>1980s</td><td>0</td><td>0%</td></tr>
+    <tr><td>1990s</td><td>1</td><td>1.8%</td></tr>
+    <tr><td>2000s</td><td>9</td><td>11.5%</td></tr>
+    <tr><td>2010s</td><td>37</td><td>40.7%</td></tr>
+    <tr><td>2020</td><td>37</td><td><strong>88.1%</strong></td></tr>
+</table>
+
+<p>In 2020, Sinn F&eacute;in ran 42 candidates and <strong>37 won</strong> &mdash; an efficiency rate of 88.1%. This wasn't just a good result; it was the most efficient major party campaign in modern Irish electoral history.</p>
+
+<p>The lesson? Sinn F&eacute;in ran exactly as many candidates as they could realistically win. This strategic discipline is rare in Irish politics, where parties often "spread the vote" across multiple candidates.</p>
+
+<h2>The Fianna F&aacute;il Century</h2>
+
+<img src="viz_party_seats_time.png" alt="Party seats won over time">
+
+<p>Fianna F&aacute;il has dominated Irish politics like no other party:</p>
+
+<table>
+    <tr><th>Party</th><th>Total Seats Won</th><th>Win Rate</th></tr>
+    <tr><td>Fianna F&aacute;il</td><td>1,892</td><td>61.8%</td></tr>
+    <tr><td>Fine Gael</td><td>1,161</td><td>50.2%</td></tr>
+    <tr><td>Labour</td><td>472</td><td>37.2%</td></tr>
+    <tr><td>Sinn F&eacute;in</td><td>93</td><td>22.0%</td></tr>
+    <tr><td>Independent</td><td>215</td><td>12.3%</td></tr>
+</table>
+
+<p>Fianna F&aacute;il's 61.8% win rate means that nearly two-thirds of their candidates won &mdash; the highest efficiency among major parties. They've held government for most of Ireland's history, and the data shows why: consistent performance across decades and regions.</p>
+
+<p>But look at the 2010s and 2020. For the first time, Fianna F&aacute;il's dominance cracked. Fine Gael surpassed them in the 2010s, and in 2020, Sinn F&eacute;in matched them seat-for-seat.</p>
+
+<h2>The Death and Resurrection of Independents</h2>
+
+<img src="viz_independent_trends.png" alt="Independent candidate win rates over time">
+
+<p>Independents &mdash; candidates without party affiliation &mdash; have had a wild ride:</p>
+
+<table>
+    <tr><th>Decade</th><th>Win Rate</th></tr>
+    <tr><td>1920s</td><td>20.0%</td></tr>
+    <tr><td>1930s</td><td>32.6%</td></tr>
+    <tr><td>1950s</td><td>38.3%</td></tr>
+    <tr><td>1970s</td><td><strong>4.8%</strong></td></tr>
+    <tr><td>1980s</td><td><strong>3.1%</strong></td></tr>
+    <tr><td>2020</td><td>15.1%</td></tr>
+</table>
+
+<p>In the 1980s, running as an independent was nearly hopeless &mdash; a 3.1% success rate. But something changed. By 2020, independents were winning 15% of their races and holding 19 D&aacute;il seats.</p>
+
+<p>Why the resurgence? Several factors:</p>
+
+<ol>
+    <li><strong>Voter disillusionment</strong> with established parties after the financial crisis</li>
+    <li><strong>High-profile independents</strong> like Shane Ross building personal brands</li>
+    <li><strong>The Independent Alliance</strong> providing some organizational support</li>
+    <li><strong>Social media</strong> allowing candidates to build followings without party infrastructure</li>
+</ol>
+
+<h2>Women in Irish Politics: The Surprising Win Rate</h2>
+
+<img src="viz_gender_timeline.png" alt="Women in Irish elections over time">
+
+<p>Here's a statistic that surprised me: <strong>women have a higher win rate than men</strong>.</p>
+
+<table>
+    <tr><th>Gender</th><th>Win Rate</th></tr>
+    <tr><td>Female</td><td><strong>14.7%</strong></td></tr>
+    <tr><td>Male</td><td>12.6%</td></tr>
+</table>
+
+<p>Out of 4,811 D&aacute;il candidates in my dataset, only 484 (10.1%) were women. But those women won 14.7% of the time, compared to 12.6% for men.</p>
+
+<p>Why?</p>
+
+<p>My hypothesis is that parties tend to run women only when they have a strong chance of winning &mdash; selection bias rather than a gender advantage. When parties do nominate women, those candidates tend to be well-known locally and well-resourced.</p>
+
+<p>The progress has been slow but steady:</p>
+
+<table>
+    <tr><th>Era</th><th>Female Candidates</th><th>Female TDs</th></tr>
+    <tr><td>1920s&ndash;1950s</td><td>~2%</td><td>~1%</td></tr>
+    <tr><td>1960s&ndash;1980s</td><td>~5%</td><td>~3%</td></tr>
+    <tr><td>1990s&ndash;2000s</td><td>~12%</td><td>~10%</td></tr>
+    <tr><td>2010s&ndash;2020</td><td>~22%</td><td>~23%</td></tr>
+</table>
+
+<p>In 2012, Ireland legislated <strong>gender quotas</strong> requiring parties to field at least 30% female candidates or lose half their state funding. The requirement took effect for the 2016 election and rose to 40% from 2023 onwards. The impact was immediate &mdash; and our data captures this inflection point.</p>
+
+<p><strong>Pioneering Women:</strong></p>
+<ul>
+    <li><strong>Constance Markievicz</strong> (1918/1919) &mdash; First woman elected to Westminster (1918), first woman in the D&aacute;il (1919)</li>
+    <li><strong>Mary MacSwiney</strong> (1921) &mdash; Elected to the Second D&aacute;il for Cork</li>
+    <li><strong>Margaret Collins O'Driscoll</strong> (1923) &mdash; Sister of Michael Collins, elected for Dublin North</li>
+    <li><strong>Mary Harney</strong> (1981) &mdash; Later became first female T&aacute;naiste</li>
+    <li><strong>Mary Robinson</strong> (1990) &mdash; Though for President, not D&aacute;il, her election shifted perceptions</li>
+</ul>
+
+<p><strong>Most Elected Women:</strong></p>
+<table>
+    <tr><th>Name</th><th>Times Elected</th><th>Years Active</th></tr>
+    <tr><td>R&oacute;is&iacute;n Shortall</td><td>6</td><td>1992&ndash;2016</td></tr>
+    <tr><td>Liz McManus</td><td>4</td><td>1992&ndash;2007</td></tr>
+    <tr><td>Mary Harney</td><td>3</td><td>1989&ndash;1997</td></tr>
+</table>
+
+<h2>The Geography of Power</h2>
+
+<p>Different parties dominate different regions:</p>
+
+<table>
+    <tr><th>Region</th><th>Top Party</th><th>Seats Won</th></tr>
+    <tr><td>Dublin</td><td>Fianna F&aacute;il</td><td>355</td></tr>
+    <tr><td>Cork</td><td>Fianna F&aacute;il</td><td>215</td></tr>
+    <tr><td>Galway</td><td>Fianna F&aacute;il</td><td>123</td></tr>
+    <tr><td>Connacht</td><td>Fianna F&aacute;il</td><td>205</td></tr>
+    <tr><td>Ulster (ROI)</td><td>Fianna F&aacute;il</td><td>158</td></tr>
+</table>
+
+<p>Fianna F&aacute;il's dominance is remarkably consistent across regions. But dig deeper and patterns emerge:</p>
+
+<ul>
+    <li><strong>Labour</strong> performs best in Cork (74 seats) and Dublin (122 seats) &mdash; urban strongholds</li>
+    <li><strong>Independents</strong> do better in <strong>Ulster</strong> (30 seats) than anywhere else &mdash; reflecting the fragmented politics of the border region</li>
+    <li><strong>Fine Gael</strong> is relatively strongest in Leinster outside Dublin</li>
+</ul>
+
+<h2>Elections Are Getting More Crowded</h2>
+
+<img src="viz_competitiveness_trend.png" alt="Candidates per seat over time">
+
+<p>In 1938, there were <strong>1.65 candidates per seat</strong>. By 2016, it was <strong>3.5 candidates per seat</strong>.</p>
+
+<p>Elections are getting more competitive. More candidates means:</p>
+<ul>
+    <li>More choices for voters</li>
+    <li>More transfer votes changing hands</li>
+    <li>More unpredictable outcomes</li>
+    <li>More expensive campaigns</li>
+</ul>
+
+<h2>What This Means for Candidates</h2>
+
+<p>If you're thinking of running for the D&aacute;il, here's what the data says:</p>
+
+<ol>
+    <li><strong>You need first preferences.</strong> Transfers help, but 82% of winners get there on first preferences alone.</li>
+    <li><strong>Party matters enormously.</strong> Independents have a 12.3% win rate; Fianna F&aacute;il has 61.8%. That's a 5x difference in your odds.</li>
+    <li><strong>Geography matters.</strong> Running in Tipperary South (most competitive) is very different from Donegal East (historically easier).</li>
+    <li><strong>Timing matters.</strong> The 2011 election was a "change election" &mdash; normal patterns broke down. The 2020 election saw Sinn F&eacute;in's surge. Running in the right year can make all the difference.</li>
+    <li><strong>Be strategic about running mates.</strong> Parties that spread votes too thin among candidates hurt everyone's chances.</li>
+</ol>
+
+<hr>
+
+<div class="methodology">
+    <h2>Methodology</h2>
+    <p><strong>Data Sources:</strong></p>
+    <ul>
+        <li>ElectionsIreland.org (30,070 records)</li>
+        <li>IrelandElection.com (36,243 records)</li>
+    </ul>
+    <p><strong>Election Types Analyzed:</strong> D&aacute;il General Elections (primary focus), By-Elections, Local Elections, European Elections</p>
+    <p><strong>Time Period:</strong> 1920&ndash;2020</p>
+    <p><strong>Key Metrics:</strong></p>
+    <ul>
+        <li>Quota Ratio = First Preference Votes / Quota</li>
+        <li>Win Rate = Seats Won / Candidates Run</li>
+    </ul>
+    <p><strong>Code:</strong> Available on <a href="https://github.com/fingers53/irish-elections-analysis">GitHub</a></p>
+</div>
+
+</article>
+
+</body>
+</html>

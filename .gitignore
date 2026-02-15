@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.claude/
+secrets/
+map_party_dominance.html
+.DS_Store
